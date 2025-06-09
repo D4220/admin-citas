@@ -1,0 +1,11 @@
+# Archivos compilados
+*.class
+*.swp
+
+# Archivos de IDE
+.idea/
+*.iml
+
+# Carpeta de base de datos
+/db/*
+!.gitignore
